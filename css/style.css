@@ -1,0 +1,18 @@
+.slk{
+	background-color:#C4C4DE;
+}
+.flower{
+	background-color: green;
+}
+.bird{
+	background-color: blue;
+}
+.fruit{
+	background-color: red;
+}
+.grid-item{
+	width: 25%;
+	margin: 10px;
+	padding: 10px;
+	color: white;
+}
